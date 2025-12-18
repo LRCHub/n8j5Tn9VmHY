@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "スイサイ/アンブレラ/ロクガツ/ドライフラワ",
+  "base_artist": "ツミキ",
+  "createdAt": "2025-12-18T08:39:20.400345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スイサイ/アンブレラ/ロクガツ/ドライフラワ",
+      "artist": "ツミキ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_スイサイ_アンブレラ_ロクガツ_ドライフラワ_ツミキ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スイサイ/アンブレラ/ロクガツ/ドライフラワ",
+      "artist": "ツミキ",
+      "has_synced": true,
+      "path": "select/02_スイサイ_アンブレラ_ロクガツ_ドライフラワ_ツミキ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スイサイ/アンブレラ/ロクガツ/ドライフラワ",
+      "artist": "Tsumiki feat. Hatsune, Miku",
+      "has_synced": true,
+      "path": "select/03_スイサイ_アンブレラ_ロクガツ_ドライフラワ_Tsumiki_feat._Hatsune,_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スイサイ/アンブレラ/ロクガツ/ドライフラワ",
+      "artist": "Tsumiki",
+      "has_synced": true,
+      "path": "select/04_スイサイ_アンブレラ_ロクガツ_ドライフラワ_Tsumiki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイサイ/アンブレラ/ロクガツ/ドライフラワ",
+      "artist": "ツミキ",
+      "has_synced": false,
+      "path": "select/pl_01_スイサイ_アンブレラ_ロクガツ_ドライフラワ_ツミキ.txt"
+    }
+  ]
+}
